@@ -1,2 +1,2 @@
 # ksql-migrations-tool
-Migration tool for Ksql inpire from liquibase
+Migration tool for Ksql inspired from liquibase
